@@ -2,7 +2,7 @@
 Penetration test of Momentum 2, a deliberately vulnerable virtual machine from VulnHub, carried out for academic purposes as part of the PTEH course.
 
 <p align="center" style="flex; justify-items: center; align-items: center;">
-  <img src="Media/icon.png" alt="Momentum: 2" width="40%"/>
+  <img src="Media/icon.png" alt="Momentum: 2" width="15%"/>
 </p>
 
 # Overview
