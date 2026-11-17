@@ -1,11 +1,7 @@
 # Momentum2 - Penetration Testing
 Penetration test of Momentum 2, a deliberately vulnerable virtual machine from VulnHub, carried out for academic purposes as part of the PTEH course.
 
-<p align="center" style="flex; justify-items: center; align-items: center;">
-  <img src="Media/icon.png" alt="Momentum: 2" width="15%"/>
-</p>
-
-# Overview
+## Overview
 The assessment was performed in a black box approach inside an isolated lab (Proxmox VE, Kali Linux attacker), following the canonical phases of the General Penetration Testing Framework: information gathering, target discovery, enumeration and port scanning, vulnerability mapping, exploitation and post-exploitation.
 
 <p align="center" style="flex; justify-items: center; align-items: center;">
